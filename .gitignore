@@ -1,0 +1,4 @@
+node_modules/
+public/dsit/
+.env.test
+.env.development
